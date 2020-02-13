@@ -21,6 +21,13 @@
   font-weight:400;
   font-style:normal;
 }
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
 .button {
 }
 .primary_button {
@@ -181,5 +188,8 @@
 .box_31 {
 }
 ._连接线 {
+}
+._图片 {
+  color:#000000;
 }
 textarea, select, input, button { outline: none; }
